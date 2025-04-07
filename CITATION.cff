@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+ cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 title: "Structure Meets Strategy in the Misinformation Age"
 authors:
@@ -6,7 +6,7 @@ authors:
     given-names: Ball
     affiliation: Northeastern University London
   - family-names: Freeborn
-    given-names: David
+    given-names: David Peter Wallis
     affiliation: Northeastern University London
   - family-names: Federica
     given-names: Imbriale
