@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Structure Meets Strategy in the Misinformation Age"
+authors:
+  - family-names: Brian
+    given-names: Ball
+    affiliation: Northeastern University London
+  - family-names: Freeborn
+    given-names: David
+    affiliation: Northeastern University London
+  - family-names: Federica
+    given-names: Imbriale
+    affiliation: Northeastern University London
+  - family-names: Amil
+    given-names: Mohanan
+    affiliation: Northeastern University London
+  - family-names: Giovanni
+    given-names: Petri
+    affiliation: Northeastern University London
+
+date-released: 2025-04-07
+version: 1.0.0
+repository-code: https://github.com/DavidFreeborn/Structure-meets-strategy
+license: MIT
+keywords:
+  - misinformation
+  - simulation
+  - network epistemology
+  - Polygraphs
+  - philosophy of information
+doi: 10.5281/zenodo.XXXXXXXXX  # ← Replace with our actual Zenodo DOI when ready
