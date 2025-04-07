@@ -2,6 +2,8 @@
 
 This repository contains iPython notebooks and supporting documentation for our simulation study on misinformation spread in different network and informational environments.
 
+Archived and citable via Zenodo: https://doi.org/10.5281/zenodo.15167419
+
 We build on the Polygraphs simulation framework: https://github.com/alexandroskoliousis/polygraphs
 
 ## Contents
