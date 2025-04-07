@@ -17,6 +17,9 @@ authors:
   - family-names: Giovanni
     given-names: Petri
     affiliation: Northeastern University London
+- family-names: Vuda
+  given-names: Prudhvi
+  affiliation: Northeastern University Boston
 
 date-released: 2025-04-07
 version: 1.0.0
