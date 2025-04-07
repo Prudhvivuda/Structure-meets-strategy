@@ -1,12 +1,12 @@
 # Structure Meets Strategy in the Misinformation Age
 
-This repository contains Jupyter notebooks and supporting documentation for our simulation study on misinformation spread in different network and informational environments.
+This repository contains iPython notebooks and supporting documentation for our simulation study on misinformation spread in different network and informational environments.
 
 We build on the Polygraphs simulation framework: https://github.com/alexandroskoliousis/polygraphs
 
 ## Contents
 
-- Jupyter notebooks with simulation code and results
+- iPython notebooks with simulation code and results
 - Documentation on how data is shared and licensed
 
 ## Dependencies
