@@ -29,5 +29,6 @@ This project is developed by:
 - Federica Imbriale, Northeastern University, London
 - Dr. Amil Mohanan, Northeastern University, London
 - Dr. Giovanni Petri, Northeastern University, London
+- Prudhvi Vuda, Northeastern University, Boston
 
 For inquiries or data access, contact: david.freeborn@nulondon.ac.uk
