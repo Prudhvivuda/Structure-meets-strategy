@@ -28,4 +28,4 @@ This project is developed by:
 - Dr. Amil Mohanan, Northeastern University, London
 - Dr. Giovanni Petri, Northeastern University, London
 
-For inquiries or data access, contact: jane.smith@northeastern.ac.uk
+For inquiries or data access, contact: david.freeborn@nulondon.ac.uk
